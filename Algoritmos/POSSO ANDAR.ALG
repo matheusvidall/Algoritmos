@@ -1,10 +1,10 @@
-Algoritmo "Posso andar"
+Algoritmo "idade"
 
 var
     ano,idade, nasc: inteiro
 
 inicio
-      Escreva("Em que ano nós estamos?")
+      Escreva("Em que ano nÃ³s estamos?")
       Leia(ano)
       Escreva("Em que ano voce nasceu?")
       Leia(nasc)
@@ -23,7 +23,7 @@ senao
 
 
 
-                 //condições delimitadas   /condicional simples
+                 //condiÃ§Ãµes delimitadas   /condicional simples
 
 
 
