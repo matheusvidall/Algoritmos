@@ -1,4 +1,4 @@
-algoritmo "idade de Creuza"
+algoritmo "conversor de moeda"
 
 var
    reais, dolares, valor: Real
